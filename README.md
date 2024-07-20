@@ -1,1 +1,1 @@
-﻿# my first project after completing my program
+﻿# my first project after my program
